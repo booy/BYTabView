@@ -1,452 +1,0 @@
-TBYTabView
-v6
-r1
-cCheck dependencies
-cProcessPCH /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.pch BYTabView/BYTabView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView normal i386
-cCopyStringsFile /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/en.lproj/InfoPlist.strings BYTabView/en.lproj/InfoPlist.strings
-cCompileAssetCatalog /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Images.xcassets
-cProcessInfoPlistFile /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/Info.plist /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Info.plist
-cGenerateDSYMFile /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView
-cTouch /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c0000000053706EAA00000000000003B4
-t1399877290
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000053706EB2000000000000019E
-t1399877298
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000053706EB40000000000446820
-t1399877300
-s4483104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000053706EB6000000000088D8C0
-t1399877302
-s8968384
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000053706EBB0000000001F1DE10
-t1399877307
-s32628240
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c0000000053706EE00000000000000ADC
-t1399877344
-s2780
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m
-c0000000053BE4E8B0000000000000962
-t1404980875
-s2402
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m
-c0000000053BE4E9B00000000000001BA
-t1404980891
-s442
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Info.plist
-c0000000053BCF750000000000000048C
-t1404893008
-s1164
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Prefix.pch
-c0000000053BCF7500000000000000158
-t1404893008
-s344
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m
-c0000000053BD0DE500000000000001B3
-t1404898789
-s435
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m
-c0000000053BE4E060000000000002452
-t1404980742
-s9298
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Images.xcassets
-c0000000053BCF7500000000000000088
-t1404893008
-s136
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/en.lproj/InfoPlist.strings
-c0000000053BCF750000000000000002D
-t1404893008
-s45
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m
-c0000000053BCF750000000000000014B
-t1404893008
-s331
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.o
-t1404980893
-s65328
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.o
-t1404980893
-s39472
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.o
-t1404980893
-s40964
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.LinkFileList
-c0000000053BE4E9B00000000000002F3
-t1404980891
-s755
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.o
-t1404980893
-s79824
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.o
-t1404980893
-s3552
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/assetcatalog_dependencies.txt
-t1404980894
-s394
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/assetcatalog_generated_info.plist
-t1404980894
-s525
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.pch
-t1404980892
-s115824
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app
-t1404980894
-s272
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM
-t2
-s0
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView
-t1404980893
-s46944
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/Info.plist
-t1404980894
-s986
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/PkgInfo
-t1404980894
-s8
-
-N/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/en.lproj/InfoPlist.strings
-t1404980893
-s42
-
-CBuild AST from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m
-r0
-
-CBuild AST from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m
-r0
-
-CBuild AST from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m
-r0
-
-CBuild AST from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m
-r0
-
-CBuild AST from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies946a931b866eb941^7b4d9b1b866eb941^---0#1#1#--18"Check dependencies36"ECA0B03E-8FA3-4685-84D1-C5CCF29DCC1E-
-
-CCompileAssetCatalog /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Images.xcassets
-s426673693.335995
-e426673694.585943
-r1
-xCompileAssetCatalog
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Images.xcassets
-o/* com.apple.actool.compilation-results */
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/LaunchImage-700-568h@2x.png
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/Assets.car
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/BYTabView.app BYTabView/Images.xcassets96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/BYTabView.app BYTabView/Images.xcassets4419561d866eb941^0038961e866eb941^-422"/* com.apple.actool.compilation-results *//Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/LaunchImage-700-568h@2x.png/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/Assets.car/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Images.xcassets/0000000000000000^1174"CompileAssetCatalog Build/Products/Debug-iphonesimulator/BYTabView.app BYTabView/Images.xcassets    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Images.xcassets36"33076AFF-61D7-43B0-984B-CE68EA2A534B-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426673693.137441
-e426673693.206740
-r1
-xCompileC
-xBuild/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.o
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.h
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.h
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m:21:29: warning: unused variable 'navController' [-Wunused-variable]
-o    UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:demoController];
-o                            ^
-o1 warning generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m212"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.o BYTabView/BYAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf853231d866eb941^35ef341d866eb941^-308"/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m:21:29: warning: unused variable 'navController' [-Wunused-variable]    UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:demoController];                            ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@31"Unused variable 'navController'-426673693#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m0000000000000000^20#28#20#28#619#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@75"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m0000000000000000^3773"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.o BYTabView/BYAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Kid/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-generated-files.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-own-target-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-all-target-headers.hmap -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-project-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources/i386 -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources -F/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator -include /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch -MMD -MT dependencies -MF /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.d --serialize-diagnostics /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.dia -c /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.m -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.o36"F848BF31-1559-4C23-A05C-116EBDE61A47-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426673692.998369
-e426673693.137255
-r1
-xCompileC
-xBuild/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.o
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.h
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m226"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.o BYTabView/BYDemoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereaafff1c866eb941^bc23231d866eb941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m0000000000000000^3815"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.o BYTabView/BYDemoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Kid/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-generated-files.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-own-target-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-all-target-headers.hmap -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-project-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources/i386 -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources -F/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator -include /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch -MMD -MT dependencies -MF /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.d --serialize-diagnostics /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.dia -c /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYDemoViewController.m -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.o36"C53F84EF-B0CD-421B-8ABB-75B6EBF92193-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426673692.997865
-e426673693.137664
-r1
-xCompileC
-xBuild/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.o
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m212"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.o BYTabView/Classes/BYTabCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3f91ff1c866eb941^cd3e231d866eb941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m0000000000000000^3765"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.o BYTabView/Classes/BYTabCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Kid/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-generated-files.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-own-target-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-all-target-headers.hmap -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-project-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources/i386 -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources -F/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator -include /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch -MMD -MT dependencies -MF /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.d --serialize-diagnostics /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.dia -c /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.m -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.o36"4AA521A9-54CA-48D4-85DE-8848779DEF34-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426673692.998726
-e426673693.171415
-r1
-xCompileC
-xBuild/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.o
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabCell.h
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'initWithFrame:titleViewFrame:edgeInsets:' not found [-Wincomplete-implementation]
-o@implementation BYTabView
-o                ^
-oIn file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:35:1: note: method 'initWithFrame:titleViewFrame:edgeInsets:' declared here
-o- (id)initWithFrame:(CGRect)frame titleViewFrame:(CGRect)titleFrame edgeInsets:(UIEdgeInsets)edgeInsets;
-o^
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'dequeueReusableContentCellWithIdentifier:' not found [-Wincomplete-implementation]
-o@implementation BYTabView
-o                ^
-oIn file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:37:1: note: method 'dequeueReusableContentCellWithIdentifier:' declared here
-o- (BYTabCell *)dequeueReusableContentCellWithIdentifier:(NSString *)identifier;
-o^
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'dequeueReusableTitleCellWithIdentifier:' not found [-Wincomplete-implementation]
-o@implementation BYTabView
-o                ^
-oIn file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:39:1: note: method 'dequeueReusableTitleCellWithIdentifier:' declared here
-o- (BYTabCell *)dequeueReusableTitleCellWithIdentifier:(NSString *)identifier;
-o^
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'contentCellOfTab:' not found [-Wincomplete-implementation]
-o@implementation BYTabView
-o                ^
-oIn file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:41:1: note: method 'contentCellOfTab:' declared here
-o- (BYTabCell *)contentCellOfTab:(NSInteger)index;
-o^
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'titleCellOfTab:' not found [-Wincomplete-implementation]
-o@implementation BYTabView
-o                ^
-oIn file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:
-o/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:43:1: note: method 'titleCellOfTab:' declared here
-o- (BYTabCell *)titleCellOfTab:(NSInteger)index;
-o^
-o5 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m212"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.o BYTabView/Classes/BYTabView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler74ceff1c866eb941^b9e12b1d866eb941^-2722"/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'initWithFrame:titleViewFrame:edgeInsets:' not found [-Wincomplete-implementation]@implementation BYTabView                ^In file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:35:1: note: method 'initWithFrame:titleViewFrame:edgeInsets:' declared here- (id)initWithFrame:(CGRect)frame titleViewFrame:(CGRect)titleFrame edgeInsets:(UIEdgeInsets)edgeInsets;^/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'dequeueReusableContentCellWithIdentifier:' not found [-Wincomplete-implementation]@implementation BYTabView                ^In file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:37:1: note: method 'dequeueReusableContentCellWithIdentifier:' declared here- (BYTabCell *)dequeueReusableContentCellWithIdentifier:(NSString *)identifier;^/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'dequeueReusableTitleCellWithIdentifier:' not found [-Wincomplete-implementation]@implementation BYTabView                ^In file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:39:1: note: method 'dequeueReusableTitleCellWithIdentifier:' declared here- (BYTabCell *)dequeueReusableTitleCellWithIdentifier:(NSString *)identifier;^/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'contentCellOfTab:' not found [-Wincomplete-implementation]@implementation BYTabView                ^In file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:41:1: note: method 'contentCellOfTab:' declared here- (BYTabCell *)contentCellOfTab:(NSInteger)index;^/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:43:17: warning: method definition for 'titleCellOfTab:' not found [-Wincomplete-implementation]@implementation BYTabView                ^In file included from /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m:9:/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h:43:1: note: method 'titleCellOfTab:' declared here- (BYTabCell *)titleCellOfTab:(NSInteger)index;^5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@74"Method definition for 'initWithFrame:titleViewFrame:edgeInsets:' not found-426673693#18446744073709551615#0#1(2@63"Method 'initWithFrame:titleViewFrame:edgeInsets:' declared here-426673693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h0000000000000000^34#0#34#0#719#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m0000000000000000^42#16#42#16#698#0#14"Semantic Issue--2@75"Method definition for 'dequeueReusableContentCellWithIdentifier:' not found-426673693#18446744073709551615#0#1(2@64"Method 'dequeueReusableContentCellWithIdentifier:' declared here-426673693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h0000000000000000^36#0#36#0#825#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m0000000000000000^42#16#42#16#698#0#14"Semantic Issue--2@73"Method definition for 'dequeueReusableTitleCellWithIdentifier:' not found-426673693#18446744073709551615#0#1(2@62"Method 'dequeueReusableTitleCellWithIdentifier:' declared here-426673693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h0000000000000000^38#0#38#0#906#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m0000000000000000^42#16#42#16#698#0#14"Semantic Issue--2@51"Method definition for 'contentCellOfTab:' not found-426673693#18446744073709551615#0#1(2@40"Method 'contentCellOfTab:' declared here-426673693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h0000000000000000^40#0#40#0#985#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m0000000000000000^42#16#42#16#698#0#14"Semantic Issue--2@49"Method definition for 'titleCellOfTab:' not found-426673693#18446744073709551615#0#1(2@38"Method 'titleCellOfTab:' declared here-426673693#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.h0000000000000000^42#0#42#0#1036#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m0000000000000000^42#16#42#16#698#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@79"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m0000000000000000^3765"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.o BYTabView/Classes/BYTabView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Kid/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-generated-files.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-own-target-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-all-target-headers.hmap -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-project-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources/i386 -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources -F/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator -include /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch -MMD -MT dependencies -MF /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.d --serialize-diagnostics /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.dia -c /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/Classes/BYTabView.m -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.o36"1FEA3093-E87A-43DE-8594-07D87EE69C24-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CCompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.o /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426673692.998051
-e426673693.137025
-r1
-xCompileC
-xBuild/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.o
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m194"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.o BYTabView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler289aff1c866eb941^3d0a231d866eb941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m0000000000000000^3719"CompileC Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.o BYTabView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Kid/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-generated-files.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-own-target-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-all-target-headers.hmap -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-project-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources/i386 -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources -F/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator -include /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch -MMD -MT dependencies -MF /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.dia -c /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/main.m -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.o36"14A633D0-7084-4CE6-81F2-D10AD03B68EE-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CCopyStringsFile /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/en.lproj/InfoPlist.strings BYTabView/en.lproj/InfoPlist.strings
-s426673693.335723
-e426673693.337150
-r1
-xCopyStringsFile
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/en.lproj/InfoPlist.strings
-xBYTabView/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy BYTabView/en.lproj/InfoPlist.strings130"CopyStringsFile Build/Products/Debug-iphonesimulator/BYTabView.app/en.lproj/InfoPlist.strings BYTabView/en.lproj/InfoPlist.strings7901561d866eb941^1e50561d866eb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/en.lproj/InfoPlist.strings0000000000000000^609"CopyStringsFile Build/Products/Debug-iphonesimulator/BYTabView.app/en.lproj/InfoPlist.strings BYTabView/en.lproj/InfoPlist.strings    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/en.lproj -- BYTabView/en.lproj/InfoPlist.strings36"DDC3FD10-F6FF-41BC-93AE-C27C3D1F51BB-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CGenerateDSYMFile /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView
-s426673694.589072
-e426673694.622274
-r1
-xGenerateDSYMFile
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Generate /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM133"GenerateDSYMFile Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView1edf961e866eb941^334e9f1e866eb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM0034f8bcdcffdf42^685"GenerateDSYMFile Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app.dSYM36"6B9BF9DF-0916-4650-BF4B-65C50EAD2EC1-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CLd /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView normal i386
-s426673693.207521
-e426673693.334922
-r1
-xLd
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView
-xnormal
-xi386
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabCell.o
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/main.o
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYDemoViewController.o
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.o
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYAppDelegate.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_coreservices.dylib
-d/usr/lib/system/libsystem_coretls.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_networkextension.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libsystem_secinit.dylib
-d/usr/lib/system/libsystem_trace.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView75"Ld Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView normal i386ad30351d866eb941^6ebe551d866eb941^---0#0#1#--1433"Ld Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView normal i386    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator -F/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator -filelist /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/Objects-normal/i386/BYTabView_dependency_info.dat -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/BYTabView36"EED41EF6-99B8-4DA9-9094-1C3BCC0C648D-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CProcessInfoPlistFile /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/Info.plist /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Info.plist
-s426673694.586752
-e426673694.588575
-r1
-xProcessInfoPlistFile
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/Info.plist
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Process /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Info.plist113"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/BYTabView.app/Info.plist BYTabView/BYTabView-Info.plist3d49961e866eb941^b4ad961e866eb941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Info.plist0000000000000000^920"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/BYTabView.app/Info.plist BYTabView/BYTabView-Info.plist    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Info.plist -genpkginfo /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/assetcatalog_generated_info.plist -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app/Info.plist36"60AB4937-64E2-45D3-A0CB-85CE54B10112-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CProcessPCH /Users/Kid/Library/Developer/Xcode/DerivedData/BYTabView-bfqnqfrubnikzogfhpehxkaneyns/Index/PrecompiledHeaders/BYTabView-Prefix-cadkxtalmotjqdbelkpewdqlvkal_ast/BYTabView-Prefix.pch.pch BYTabView/BYTabView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.pch BYTabView/BYTabView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s426673691.607776
-e426673692.997289
-r1
-xProcessPCH
-x/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.pch
-xBYTabView/BYTabView-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile BYTabView/BYTabView-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.pch BYTabView/BYTabView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler67b69b1b866eb941^ec4eff1c866eb941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Prefix.pch0000000000000000^3630"ProcessPCH Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.pch BYTabView/BYTabView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kid/WorkSpace/OpenSources/BYTabView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Kid/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-generated-files.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-own-target-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-all-target-headers.hmap -iquote /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/BYTabView-project-headers.hmap -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources/i386 -I/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/BYTabView.build/Debug-iphonesimulator/BYTabView.build/DerivedSources -F/Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.d -c /Users/Kid/WorkSpace/OpenSources/BYTabView/BYTabView/BYTabView-Prefix.pch -o /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Intermediates/PrecompiledHeaders/BYTabView-Prefix-gtimllgpmvokpjbqrrlfkdvanqfx/BYTabView-Prefix.pch.pch36"56FE25F3-5567-4BB3-8DE4-0281A87FFE82-
-b2D77E9EA-3C28-4E26-84F6-F541990E89EB
-
-CTouch /Users/Kid/WorkSpace/OpenSources/BYTabView/Build/Products/Debug-iphonesimulator/BYTabView.app
-r0
-
