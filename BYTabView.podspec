@@ -10,9 +10,8 @@ Pod::Spec.new do |s|
   s.author           = { "Booy" => "xxhushaomin@gmail.com" }  
   s.source           = { :git => "git@github.com:booy/BYTabView.git", :tag => s.version.to_s }  
   
-  s.platform     = :ios, '4.3'  
-  s.ios.deployment_target = '5.0'  
-  # s.osx.deployment_target = '10.7'  
+  s.platform     = :ios, '6.0'  
+  s.ios.deployment_target = '6.0'  
   s.requires_arc = true  
   
   s.source_files = 'BYTabView/*'  
