@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E3FDCC1E-6AA2-4592-9348-AAE1E8A4C021</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BYTabViewExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CED454E6-58E3-4DFF-91C4-E722BE1B5E7B</key>
+		<string>ssh://github.com/booy/BYTabView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BYTabViewExample/BYTabViewExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CED454E6-58E3-4DFF-91C4-E722BE1B5E7B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/booy/BYTabView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CED454E6-58E3-4DFF-91C4-E722BE1B5E7B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CED454E6-58E3-4DFF-91C4-E722BE1B5E7B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BYTabView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
