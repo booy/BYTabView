@@ -48,7 +48,7 @@
 
 }
 
-- (CGFloat)gapOfTitleCellsInTabView:(BYTabView *)tabView
+- (float)gapOfTitleCellsInTabView:(BYTabView *)tabView
 {
     if (tabView.tag == 1) {
         return 10.f;

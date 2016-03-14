@@ -377,8 +377,8 @@
 {
     BYTabCell *cell;
     
-    NSInteger prev = MAX(0, _currentIndex - 2);
-    NSInteger next = MIN(_currentIndex + 2, _tabs);
+    int prev = (int)MAX(0, _currentIndex - 2);
+    int next = (int)MIN(_currentIndex + 2, _tabs);
     
     if (prev > 0) {
         for (int i = 0; i <= prev; i++) {
